@@ -9,5 +9,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hymhub&show_icons=true&hide=prs" />
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymhub&layout=compact" />
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymhub&layout=compact&langs_count=10" />
 </p>

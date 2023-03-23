@@ -8,6 +8,6 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hymhub&show_icons=true&theme=cobalt&hide=prs" />
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymhub&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hymhub&show_icons=true&hide=prs" />
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymhub&layout=compact" />
 </p>
